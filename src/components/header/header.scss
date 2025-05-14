@@ -1,0 +1,57 @@
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    
+}
+.container_header{
+    background-color: #1E180F;
+    display: flex;
+    align-items: center;
+    justify-content: space-between ;
+    height: 70px;
+    padding: 0 24px;
+}
+.logo{
+    color: white;
+    width: 200px;
+
+}
+.name_arc{
+    color: white;
+    font-size: 16px;
+    font-weight: 200;
+    width: 100px;
+    border: 1px solid red;
+
+    @media (max-width: 530px) {
+            display: none;
+            border: 1px solid white;
+      } 
+}
+.links_container{
+    gap: 12px;   
+
+ span{
+    padding: 8px;
+    border:1px solid #C7B390;
+    color: #FFF;
+    cursor: pointer;
+    transition: 0.3s;
+ }
+ .links{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+ }
+
+ .links:hover{
+    background-color: white;
+    color: black;
+ }
+}
