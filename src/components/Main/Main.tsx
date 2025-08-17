@@ -10,7 +10,7 @@ export default function Main() {
           <span>SPACE OF REFINEMENT</span>
         </div>
         <div className="getin_touch glass">
-          <a>GETTING IN TOUCH</a>
+          <a>GET IN TOUCH</a>
         </div>
       </div>
     </main>
