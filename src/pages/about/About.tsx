@@ -1,6 +1,6 @@
 import "./about.scss";
 import city from "../../assets/city.svg";
-import git from "../../assets/git.svg"
+import git from "../../assets/git.svg";
 import insta from "../../assets/insta.svg";
 import whats from "../../assets/whats.svg";
 export default function About() {
@@ -70,9 +70,9 @@ export default function About() {
       </div>
       <footer>
         <div className="social">
-        <img src={git} alt="github"/>
-        <img src={insta} alt="instagram"/>
-          <img src={whats} alt="whatszap"/>
+          <img src={git} alt="github" />
+          <img src={insta} alt="instagram" />
+          <img src={whats} alt="whatszap" />
         </div>
       </footer>
     </div>

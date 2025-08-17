@@ -1,14 +1,11 @@
+import Header from "src/components/Header";
+import Main from "src/components/Main/Main";
 
-import Header from "../../components/header/Header";
-import Main from "../../components/main/Main";
-
-
-export default function Home(){
-    return(
-        <>
-            <Header/> 
-            <Main/>
-         
-        </>
-    )
+export default function Home() {
+  return (
+    <>
+      <Header />
+      <Main />
+    </>
+  );
 }
