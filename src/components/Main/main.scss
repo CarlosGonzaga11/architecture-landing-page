@@ -56,6 +56,11 @@ main {
       color: #1e180f;
       background-color: #d2be98;
       position: relative;
+      cursor: pointer;
+
+      &:hover {
+        opacity: 0.8;
+      }
     }
     a::before {
       content: "";

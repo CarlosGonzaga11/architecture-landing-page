@@ -1,5 +1,6 @@
 import "./project.scss";
 import blackword from "../../assets/blackword.png";
+
 export default function Projects() {
   return (
     <section className="container_section">
