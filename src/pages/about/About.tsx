@@ -25,9 +25,9 @@ export default function About() {
           <p className="text">
             We are dedicated to designing sophisticated nd innative bui ld We
             are dedicated to designing sophisticated n We are dedicated to
-            designing sophis ld We are dedicated to designing sophisticated n We
+            designing sophis le We are dedicated to designing sophisticated n We
             are dedicated to designing sophisticated nd innative build d
-            innative build{" "}
+            innative build
           </p>
         </article>
         <div className="container_img">
