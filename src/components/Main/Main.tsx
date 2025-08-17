@@ -1,4 +1,5 @@
 import "./main.scss";
+
 export default function Main() {
   return (
     <main>
@@ -9,7 +10,7 @@ export default function Main() {
           <span>SPACE OF REFINEMENT</span>
         </div>
         <div className="getin_touch glass">
-          <a>GET IN TOUCH</a>
+          <a>GETTING IN TOUCH</a>
         </div>
       </div>
     </main>
